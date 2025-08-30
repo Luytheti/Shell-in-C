@@ -1,4 +1,4 @@
-# 🐚 MyShell
+# MyShell
 
 A simple custom Unix-like shell implemented in C.  
 This project demonstrates process creation, command execution, I/O redirection, sequential & parallel execution, and pipelining — mimicking core features of a Unix shell.
